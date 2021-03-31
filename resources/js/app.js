@@ -1,1 +1,2 @@
+import 'boxicons'
 require('./bootstrap');
